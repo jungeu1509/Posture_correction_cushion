@@ -5,4 +5,4 @@ using Raspberry Pi
 
 please read Report first
 
-Driving vidio link: https://youtu.be/G-tMOnzSoCs
+Driving video link: https://youtu.be/G-tMOnzSoCs
